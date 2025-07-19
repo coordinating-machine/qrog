@@ -1,1 +1,1 @@
-### Coordinating Machine (grok)
+### Coordinating Machine (qrog)
