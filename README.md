@@ -1,1 +1,1 @@
-### Thingking Machine (grok)
+### Coordinating Machine (grok)
